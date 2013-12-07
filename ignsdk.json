@@ -1,0 +1,21 @@
+{
+  "config" : { 
+		"debug" : true,
+		"websecurity" : true,
+		"name" : " "
+  },
+  "window" : { 
+		"transparent" : false, 
+		"noframe" : false, 
+		"fullscreen" : false,
+		"maximize" : false,
+		"width" : 585,
+		"height" : 535
+	},
+  "button" : [
+		"back",
+		"forward",
+		"stop",
+		"reload"
+	]
+}
